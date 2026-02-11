@@ -1235,3 +1235,128 @@ LV_Main_Persistent
 [2026.02.11-07.36.08:046][900]AssetCheck: /Game/Level/LV_Main_Persistent 에셋 유효성 검사 중
 [2026.02.11-07.36.08:083][900]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../git/Panorama_UE5/Project_Panorama/Saved/SourceControl/UncontrolledChangelists.json
 [2026.02.11-07.36.10:888][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.11-07.37.22:284][769]LogDerivedDataCache: C:/Users/KOSMO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.11-07.40.42:875][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 317.924042
+[2026.02.11-07.40.43:107][849]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-07.40.43:107][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 318.149323, Update Interval: 336.653351
+[2026.02.11-07.41.17:052][865]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.02.11-07.41.17:117][866]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.02.11-07.46.23:002][614]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 658.057495
+[2026.02.11-07.46.23:261][643]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-07.46.23:261][643]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 658.307373, Update Interval: 358.807953
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: ================================================
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Total job queries 508, among them cache hits 68 (13.39%), DDC hits 358 (70.47%), Duplicates 77 (15.16%)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Tracking 363 distinct input hashes that result in 255 distinct outputs (70.25%)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: RAM used: 3.51 MiB of 3.20 GiB budget. Usage: 0.11%
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Shaders Compiled: 5
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 1.23 s
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Job life time (pending + execution): average 0.86 s, max 1.31
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Shader code size: total 45.469 KiB, numShaders 5, average 9.094 KiB, min 7.43 KiB, max 11.324 KiB
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.31 s
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Average processing rate: 3.82 jobs/sec
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Total thread time: 3.009 s
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Total thread preprocess time: 5.145 s
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Percentage time preprocessing: 171.01%
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Effective parallelization: 2.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.287048
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 33.39% of total time (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.76% of total time (compiled    2 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 26.99% of total time (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.86% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: === Material stats ===
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Materials Translated:    142
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Material Total Translate Time: 0.05 s
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Material Translation Only: 0.03 s (58%)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (5%)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: Material Cache Hits: 54 (38%)
+[2026.02.11-07.50.27:577][234]LogShaderCompilers: Display: ================================================
+[2026.02.11-07.52.15:434][620]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2026.02.11-07.52.15:444][620]LogContentBrowser: Creating deferred item: 새 폴더
+[2026.02.11-07.52.15:475][622]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2026.02.11-07.52.19:951][145]LogContentBrowser: Attempting asset rename: 새 폴더 -> meshes
+[2026.02.11-07.52.19:951][145]LogContentBrowser: End creating deferred item 새 폴더
+[2026.02.11-07.52.24:959][704]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2026.02.11-07.52.24:968][704]LogContentBrowser: Creating deferred item: 새 폴더
+[2026.02.11-07.52.24:979][705]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2026.02.11-07.52.28:954][177]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1024.007935
+[2026.02.11-07.52.29:221][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-07.52.29:221][209]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1024.266479, Update Interval: 326.285583
+[2026.02.11-07.52.29:464][239]LogContentBrowser: Attempting asset rename: 새 폴더 -> Blueprints
+[2026.02.11-07.52.29:464][239]LogContentBrowser: End creating deferred item 새 폴더
+[2026.02.11-07.52.34:844][845]LogStreaming: Display: FlushAsyncLoading(477): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-07.52.47:702][845]LogInterchangeEngine: Display: Interchange start importing source [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx]
+[2026.02.11-07.53.08:022][845]LogSlate: Window '콘텐츠 임포트' being destroyed
+[2026.02.11-07.53.08:049][845]LogInterchangeEngine: [대기중] 임포트 중
+[2026.02.11-07.53.08:171][846]LogStreaming: Display: FlushAsyncLoading(511): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-07.53.08:220][847]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/Grass_01.Grass_01:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-07.53.08:224][848]LogStaticMesh: Display: Grass_01스태틱 메시 빌드 중(필요 메모리 예상: 0.000MB)...
+[2026.02.11-07.53.08:224][848]LogStaticMeshBuilder: Error: Empty mesh description during Nanite build [StaticMesh /Game/Env_Forest/meshes/Grass_01.Grass_01].
+[2026.02.11-07.53.08:225][848]LogStaticMesh: Built static mesh [0.00s] /Game/Env_Forest/meshes/Grass_01.Grass_01
+[2026.02.11-07.53.08:226][848]LogStaticMeshBuilder: Error: Cannot build the asset from an empty mesh description.
+[2026.02.11-07.53.08:226][848]LogStaticMesh: Error: Failed to build static mesh. See previous line(s) for details.
+[2026.02.11-07.53.08:226][848]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/Grass_01.Grass_01:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-07.53.08:324][848]LogStaticMeshBuilder: Error: Cannot build the asset from an empty mesh description.
+[2026.02.11-07.53.08:324][848]LogStaticMesh: Error: Failed to build static mesh. See previous line(s) for details.
+[2026.02.11-07.53.08:324][848]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/Grass_01.Grass_01:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-07.53.08:326][848]LogInterchangeEngine: Display: Interchange import completed [C:/git/Panorama_ArtS.../03_Forest/02_export/Grass_01.fbx]
+[2026.02.11-07.53.08:326][848]Interchange: Warning: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx : 'Grass_01', StaticMesh] FBX 파일의 이 메시 '_System_001'에 대해 스무딩 그룹 정보를 찾지 못했습니다. 파일을 익스포트하기 전에 FBX 익스포터에서 '스무딩 그룹 익스포트' 옵션이 활성화되어 있는지 확인하세요.
+[2026.02.11-07.53.08:326][848]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx : 'Grass_01', StaticMesh] '_System_001' 메시에서 폴리곤을 찾지 못했습니다.
+[2026.02.11-07.53.08:326][848]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx : 'Grass_01', StaticMesh] MeshDescription 생성 중에 오류가 발생하여 스태틱 메시 페이로드를 가져올 수 없습니다.
+[2026.02.11-07.53.08:326][848]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx : '', Unknown] FBX 페이로드 데이터를 가져올 수 없습니다.
+[2026.02.11-07.53.08:333][848]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.02.11-07.53.08:333][848]LogInterchangeEngine: [성공] 임포트 완료
+[2026.02.11-07.53.08:495][850]LogStaticMeshBuilder: Error: Cannot build the asset from an empty mesh description.
+[2026.02.11-07.53.08:495][850]LogStaticMesh: Error: Failed to build static mesh. See previous line(s) for details.
+[2026.02.11-07.53.11:454][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.11-07.53.11:459][ 64]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_ENV_Forest' took 0.024
+[2026.02.11-07.53.11:459][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Env_Forest/meshes/Grass_01] ([1] browsable assets)...
+[2026.02.11-07.53.11:464][ 64]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Env_Forest/meshes/Grass_01.Grass_01]
+[2026.02.11-07.53.11:464][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Env_Forest/meshes/Grass_01]
+[2026.02.11-07.53.11:475][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Env_Forest/meshes/Grass_01_Auto1
+[2026.02.11-07.53.11:475][ 64]LogSavePackage: Moving '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Grass_01_Auto15C2A168D4E95070B1449D5A904C1DED4.tmp' to '../../../../../../git/Panorama_UE5/Project_Panorama/Saved/Autosaves/Game/Env_Forest/meshes/Grass_01_Auto1.uasset'
+[2026.02.11-07.53.11:475][ 64]LogFileHelpers: Auto-saving content packages took 0.017
+[2026.02.11-07.53.20:865][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.11-07.53.21:016][987]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.02.11-07.53.21:018][987]LogSlate: Took 0.001237 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.11-07.53.22:151][987]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.11-07.53.22:171][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.11-07.53.22:188][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.11-07.53.22:200][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.11-07.53.30:690][678]LogStreaming: Display: FlushAsyncLoading(512): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-07.53.30:766][678]LogInterchangeEngine: Display: Interchange start importing source [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx]
+[2026.02.11-07.53.32:828][678]LogSlate: Window '콘텐츠 임포트' being destroyed
+[2026.02.11-07.53.32:850][678]LogInterchangeEngine: [대기중] 임포트 중
+[2026.02.11-07.53.32:970][679]LogStreaming: Display: FlushAsyncLoading(513): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-07.53.33:018][680]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/Grass_01.Grass_01:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-07.53.33:024][681]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/Grass_01.Grass_01:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-07.53.33:096][681]LogPhysics: Warning: TConvex Name:BodySetup /Game/Env_Forest/meshes/Grass_01.Grass_01:BodySetup_0, Element [0] has no Geometry
+[2026.02.11-07.53.33:097][681]LogInterchangeEngine: Display: Interchange import completed [C:/git/Panorama_ArtS.../03_Forest/02_export/Grass_01.fbx]
+[2026.02.11-07.53.33:098][681]Interchange: Warning: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx : 'Grass_01', StaticMesh] FBX 파일의 이 메시 '_System_001'에 대해 스무딩 그룹 정보를 찾지 못했습니다. 파일을 익스포트하기 전에 FBX 익스포터에서 '스무딩 그룹 익스포트' 옵션이 활성화되어 있는지 확인하세요.
+[2026.02.11-07.53.33:098][681]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx : 'Grass_01', StaticMesh] '_System_001' 메시에서 폴리곤을 찾지 못했습니다.
+[2026.02.11-07.53.33:098][681]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx : 'Grass_01', StaticMesh] MeshDescription 생성 중에 오류가 발생하여 스태틱 메시 페이로드를 가져올 수 없습니다.
+[2026.02.11-07.53.33:098][681]Interchange: Error: [C:/git/Panorama_ArtSource/Blender/02_Env/03_Forest/02_export/Grass_01.fbx : '', Unknown] FBX 페이로드 데이터를 가져올 수 없습니다.
+[2026.02.11-07.53.33:116][681]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2026.02.11-07.53.33:116][681]LogInterchangeEngine: [성공] 임포트 완료
+[2026.02.11-07.53.45:990][933]LogSlate: Window '메시지 로그' being destroyed
+[2026.02.11-07.53.45:995][933]LogSlate: Window '메시지 로그' being destroyed
+[2026.02.11-07.53.59:231][434]LogContentBrowser: Attempting asset rename: Grass_01 -> Grass_01
+[2026.02.11-07.53.59:541][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.11-07.54.00:359][454]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.11-07.54.00:381][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.11-07.54.00:396][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.11-07.54.00:408][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.11-07.54.06:465][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
